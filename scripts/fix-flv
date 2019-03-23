@@ -1,0 +1,4 @@
+#!/usr/bin/python
+
+from flvlib.scripts import fix_flv
+fix_flv.main()

@@ -4,3 +4,5 @@ dist/
 build/
 *.pyc
 _trial_temp/
+.vscode
+lib/flvlib.egg-info
